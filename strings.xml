@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="a11y_desc">Lets Jarvis tap buttons, type messages, lock the screen and open the power menu when you ask by voice.</string>
+</resources>
